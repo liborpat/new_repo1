@@ -3,3 +3,4 @@ My new repo
 
 Muj prvni repositar.
 Dalsi vstup
+dalsi vstup
